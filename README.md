@@ -3,6 +3,15 @@ popartqr
 
 A PHP based colorful popart QR code generator powered by [phpqrcode](https://github.com/t0k4rt/phpqrcode).
 
+See in action: http://qr.x0.hu/
+
+Screenshots
+===========
+
+![popart QR screenshot 1](http://qr.x0.hu/screenshot1.png)
+![popart QR screenshot 2](http://qr.x0.hu/screenshot2.png)
+![popart QR screenshot 3](http://qr.x0.hu/screenshot3.png)
+
 Based on phpqrcode
 ==================
 
